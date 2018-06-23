@@ -28,10 +28,10 @@ img {
 }
 
 #footer a {
-  color: blue;
+  color: black;
   font-size: 25px;
 }
 #footer a:hover {
-  color: red;
+  color: gray;
 	font-size: 50px;
 }
