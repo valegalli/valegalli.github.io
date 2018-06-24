@@ -1,6 +1,6 @@
 ﻿body{
-  background: rgb(240, 240, 240);
-  color: rgb(0, 0, 0);
+  background-image: url("https://picsum.photos/1300/600/?image=6");
+  color: rgb (0,0,0);
   font-size: 12px;
   font-family: Helvetica;
   padding-left: 60px;
@@ -10,7 +10,7 @@
 }
 h1{
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
 }
 .item{
     background: rgb(248, 248, 248);
@@ -29,7 +29,7 @@ img {
 
 #footer a {
   color: black;
-  font-size: 25px;
+  font-size: 30px;
 }
 #footer a:hover {
   color: gray;
